@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManualDependencyInjection</string>
+    <string name="randomize">Randomize</string>
+</resources>
